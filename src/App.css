@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-canvas {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.upbutton {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+ }
+
+.downbutton {
+  position: absolute;
+  top: 10px;
+  left: 700px;
+}
